@@ -1,0 +1,178 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "124f8269-c290-49cb-85a8-9d0c4294e25e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Here is a curated list of highly recommended libraries you should learn for data science and machine learning, along with their primary uses:\n",
+    "\n",
+    "### Essential Libraries:\n",
+    "\n",
+    "1. **NumPy**:\n",
+    "   - **Use**: Numerical computing with support for large, multi-dimensional arrays and matrices.\n",
+    "   - **Why**: Foundation for other scientific computing libraries in Python.\n",
+    "\n",
+    "2. **Pandas**:\n",
+    "   - **Use**: Data manipulation and analysis using DataFrames.\n",
+    "   - **Why**: Essential for handling and preprocessing data.\n",
+    "\n",
+    "3. **Matplotlib**:\n",
+    "   - **Use**: Data visualization and plotting.\n",
+    "   - **Why**: Fundamental for creating static, animated, and interactive visualizations.\n",
+    "\n",
+    "### Recommended for Data Visualization:\n",
+    "\n",
+    "4. **Seaborn**:\n",
+    "   - **Use**: Statistical data visualization.\n",
+    "   - **Why**: Simplifies the creation of complex and attractive visualizations.\n",
+    "\n",
+    "5. **Plotly**:\n",
+    "   - **Use**: Interactive graphing and plotting.\n",
+    "   - **Why**: Useful for creating dashboards and interactive visualizations.\n",
+    "\n",
+    "### Recommended for Machine Learning:\n",
+    "\n",
+    "6. **Scikit-learn**:\n",
+    "   - **Use**: Machine learning algorithms and data mining.\n",
+    "   - **Why**: Comprehensive library for various machine learning tasks.\n",
+    "\n",
+    "7. **TensorFlow**:\n",
+    "   - **Use**: Deep learning and neural networks.\n",
+    "   - **Why**: Widely used for building and training complex models.\n",
+    "\n",
+    "8. **Keras**:\n",
+    "   - **Use**: High-level neural networks API.\n",
+    "   - **Why**: Simplifies building and training neural network models, runs on TensorFlow.\n",
+    "\n",
+    "9. **PyTorch**:\n",
+    "   - **Use**: Deep learning and research.\n",
+    "   - **Why**: Known for its dynamic computation graph and ease of use in research.\n",
+    "\n",
+    "10. **XGBoost**:\n",
+    "    - **Use**: Optimized gradient boosting.\n",
+    "    - **Why**: High performance in supervised learning tasks.\n",
+    "\n",
+    "### Additional Libraries for Specific Needs:\n",
+    "\n",
+    "11. **SciPy**:\n",
+    "    - **Use**: Advanced scientific computing.\n",
+    "    - **Why**: Complements NumPy with more advanced mathematical functions.\n",
+    "\n",
+    "12. **Dask**:\n",
+    "    - **Use**: Parallel computing.\n",
+    "    - **Why**: Handles larger-than-memory computations.\n",
+    "\n",
+    "13. **Statsmodels**:\n",
+    "    - **Use**: Statistical modeling.\n",
+    "    - **Why**: Useful for statistical tests and data exploration.\n",
+    "\n",
+    "### Libraries for Natural Language Processing (NLP):\n",
+    "\n",
+    "14. **NLTK**:\n",
+    "    - **Use**: Working with human language data.\n",
+    "    - **Why**: Provides tools for processing text and linguistic data.\n",
+    "\n",
+    "15. **spaCy**:\n",
+    "    - **Use**: Industrial-strength NLP.\n",
+    "    - **Why**: Efficient and suitable for production use.\n",
+    "\n",
+    "16. **Gensim**:\n",
+    "    - **Use**: Topic modeling and document similarity.\n",
+    "    - **Why**: Effective for working with large text corpora.\n",
+    "\n",
+    "### Libraries for Time Series Analysis:\n",
+    "\n",
+    "17. **Prophet**:\n",
+    "    - **Use**: Time series forecasting.\n",
+    "    - **Why**: Designed for handling seasonality and holidays in time series data.\n",
+    "\n",
+    "### Web Scraping:\n",
+    "\n",
+    "18. **BeautifulSoup**:\n",
+    "    - **Use**: Web scraping.\n",
+    "    - **Why**: Extracts data from HTML and XML files.\n",
+    "\n",
+    "By learning these libraries, you'll be well-equipped to handle a wide range of tasks in data science and machine learning, from data preprocessing and analysis to building and deploying complex models."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "614ea0ff-a9e2-4b41-b2ea-99e6767a572a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\mahaj\\Python 24\n"
+     ]
+    }
+   ],
+   "source": [
+    "!cd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "71a8a799-cbe6-4484-8729-ef5dbf5ad3cf",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      " Volume in drive C is Windows\n",
+      " Volume Serial Number is 96E0-2891\n",
+      "\n",
+      " Directory of C:\\Users\\mahaj\\Python 24\n",
+      "\n",
+      "06-08-2024  09:35 PM    <DIR>          .\n",
+      "06-08-2024  07:28 PM    <DIR>          ..\n",
+      "06-08-2024  09:35 PM    <DIR>          .ipynb_checkpoints\n",
+      "06-08-2024  07:30 PM             1,093 01_aa.ipynb\n",
+      "06-08-2024  09:35 PM             4,507 theory.txt\n",
+      "               2 File(s)          5,600 bytes\n",
+      "               3 Dir(s)  43,310,469,120 bytes free\n"
+     ]
+    }
+   ],
+   "source": [
+    "!dir"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "806289b0-0fe8-49f0-bb34-258fb2013dfa",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
