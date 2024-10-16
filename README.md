@@ -1,4 +1,4 @@
-## 🧠 Machine Learning & Python Practice
+# 🧠 Machine Learning & Python Practice
 
 Welcome to my repository! This contains Jupyter Notebooks of my practice in Python and Machine Learning concepts.
 
