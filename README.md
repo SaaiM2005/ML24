@@ -1,28 +1,28 @@
-🧠 Machine Learning & Python Practice
+## 🧠 Machine Learning & Python Practice
 
 Welcome to my repository! This contains Jupyter Notebooks of my practice in Python and Machine Learning concepts.
 
-📁 Repository Contents
+## 📁 Repository Contents
 
-Python Basics 🐍  
+### Python Basics 🐍  
 Fundamental Python programming, data handling, and libraries like NumPy, Pandas.
 
-Machine Learning Algorithms 🤖  
+### Machine Learning Algorithms 🤖  
 Implementation of various models: Regression, Classification, Clustering.
 
-Data Preprocessing 🧹  
+### Data Preprocessing 🧹  
 Techniques for cleaning, scaling, and feature selection.
 
-🛠️ Libraries Used
+### 🛠️ Libraries Used
 
 Python 3.x  
 NumPy, Pandas, Matplotlib  
 Scikit-learn, TensorFlow (if needed)
 
-🙌 Contributions
+### 🙌 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-📬 Contact
+### 📬 Contact
 
 Feel free to reach out at [mahajansai156@gmail.com]!
 
